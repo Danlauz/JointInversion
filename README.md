@@ -5,18 +5,18 @@ Folder :
 
 Example in 2D :
 
-2D-3facies_KandC_1000mx1000m_FieldSize : Code for section 4.2.
+2D-3facies_KandC_FieldSize : Code for section 4.2.
 
 2D-3facies_KandC_NbHD : Code for section 4.3
 
-2D-3facies_KandC_1000mx1000m_fixFacies : Used for section 4.4. Third and fourth columns of Table 4.
+2D-3facies_KandC_fixFacies : Used for section 4.4. Third and fourth columns of Table 4.
 
-2D-3facies_KandC_1000mx1000m_NoBorehole : Used for section 4.4. Fifth column of Table 4.
+2D-3facies_KandC_NoBorehole : Used for section 4.4. Fifth column of Table 4.
 
 
 Example in 3D :
 
-3D-3facies_KandC_2kmx2kmx10m : Code for section 5
+3D-3facies_KandC : Code for section 5
 
 
 Description of individual code present in each folder. They are all quite similar. Major changes concern the references and some technicalities mentioned in the article.
